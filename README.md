@@ -28,8 +28,22 @@ BMI = mass (kg) / (height in meters)²
 
 ##🧪 Sample Run
    ```bash
-THIS PROGRAM WILL TELL YOUR BMI
-ENTER YOUR MASS (kg): 65
-ENTER YOUR HEIGHT (cm): 170
-Your BMI is 22.49
+   THIS PROGRAM WILL TELL YOUR BMI
+   ENTER YOUR MASS (kg): 65
+   ENTER YOUR HEIGHT (cm): 170
+   Your BMI is 22.49
+```
+✨ Why Use This?
 
+    ✅ Beginner-friendly
+
+    ✅ No external libraries
+
+    ✅ Super clean logic
+
+    ✅ Aesthetic CLI output
+
+🔥 Stay Sharp, Stay Fit
+
+This little program is a beast move for anyone learning Python. Build it, run it, tweak it.
+And if you’re reading this — remember: code like a savage, document like a legend.
